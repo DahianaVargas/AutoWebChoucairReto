@@ -1,0 +1,12 @@
+co/com/choucair/utestReto/userinterfaces/PersonalPage.java
+ co.com.choucair.utestReto.userinterfaces.PersonalPage
+co/com/choucair/utestReto/userinterfaces/HomePage.java
+ co.com.choucair.utestReto.userinterfaces.HomePage
+co/com/choucair/utestReto/tasks/RegisterUser.java
+ co.com.choucair.utestReto.tasks.RegisterUser
+co/com/choucair/utestReto/userinterfaces/Complete.java
+ co.com.choucair.utestReto.userinterfaces.Complete
+co/com/choucair/utestReto/userinterfaces/Location.java
+ co.com.choucair.utestReto.userinterfaces.Location
+co/com/choucair/utestReto/userinterfaces/Devices.java
+ co.com.choucair.utestReto.userinterfaces.Devices

@@ -1,0 +1,4 @@
+co/com/choucair/utestReto/runners/RegisterUserRunner.java
+ co.com.choucair.utestReto.runners.RegisterUserRunner
+co/com/choucair/utestReto/stepdefinitions/RegisterUserStep.java
+ co.com.choucair.utestReto.stepdefinitions.RegisterUserStep
